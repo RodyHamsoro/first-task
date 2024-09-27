@@ -1,0 +1,94 @@
+
+
+
+
+
+git -v
+لمعرفة اصدار العمل
+
+نظام ادارة مستودعات
+
+
+local repo
+
+git add
+git push from local repo to drive
+
+git pull
+
+
+git
+هي اداة تعمل ادارة للكود لحتى ارفعه الى ال
+githb
+مستودع  اونلاين
+موقع الذي يحتفكك بالكود ويديره
+نظام تحكم بالاضدارات
+العمل السابق يكون مؤرشف
+
+
+هي عملية مصادقة بين المبرمح والموقع 
+github
+
+وهذا المفتاح هو
+ssh
+وهو خاص لكل مبرمج 
+
+
+
+git -v
+
+
+git init
+
+git add .
+
+
+
+git pull
+
+git add (name)
+
+
+git status
+
+
+git commit -m ""
+
+make link
+
+git push
+
+
+git remote add origin (link)
+
+git branch -M main
+
+
+search add newfor
+ssh-keygen -t .... ""
+
+git oush origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local repo contains branches
+
+
+
+
+
+
